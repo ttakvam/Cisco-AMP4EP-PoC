@@ -6,6 +6,8 @@ Cisco AMP for Endpoint sample code
 Sample code to set up a AMQP listener for Cisco AMP for Endpoint event
 Stream.
 
+This requires to set up an EventStream
+
 Refer to Cisco
 [Security AMP 01 Basics](https://github.com/CiscoSecurity/amp-01-basics)
 for examples on how to interact with Cisco AMP for Endpoint API.
