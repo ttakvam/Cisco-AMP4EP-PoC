@@ -24,6 +24,9 @@ Cisco [API-Docs](https://api-docs.amp.cisco.com)
 
 
 # Example output
+
+Testing by downloading the EICAR test-file
+
 `````
 [*] Waiting for messages. To exit press CTRL+C
 
